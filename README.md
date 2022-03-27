@@ -1,0 +1,2 @@
+# akkatwin
+Akka-DigitalTwin synchronization
